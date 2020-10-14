@@ -1,1 +1,8 @@
-my branch first commit a
+my branch first commit A
+my branch second commit B
+
+
+
+
+
+        A     ->      B    
