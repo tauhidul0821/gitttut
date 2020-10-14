@@ -1,2 +1,2 @@
 # gitttut
-# this is first commit goes to dev branch 
+# need to know cherry-picking & taging 
