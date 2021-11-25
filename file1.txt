@@ -13,10 +13,7 @@ this is line 11 writen by tauhidbs23
 
 this is line 14 written by tauhidul0821
 this is line 15 written by tauhidul0821
-
-git pull --rebase
-fuck man
-
+fghjfgjghjfgj
 
 
 ----------------------tauhidbs23 place----------------------------
@@ -25,7 +22,6 @@ this is line 21 , written by tauhidbs23 done
 this is line 23 , written by tauhidbs23 again
 
 now added globally
-dhur o bal 
 
 
 
