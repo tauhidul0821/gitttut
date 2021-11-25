@@ -1,10 +1,68 @@
 # git
 ### interactive rebase 
+- how to change commit massage 
+
+```bash
+git log --oneline
+```
+now you want to change number 3 commit massage 
+
+```bash
+git rebase -i HEAD~3
+```
+
+replace pick to reword
+
+close 
+now open another window
+
+no change commit massage 
+
+we successfully change commit massage 
+
+
+
+- how to combine two commit into one commit 
+
+git rebase -i HEAD~4
+open a new window
+
+now replace `pick` to `squash`
+
+save and close 
+open a new window 
+
+now commit a new commit and close 
+
+
+
 ### cherry picking
+
+
+
+
+
+
 ### taging
+
+
+
+
 ### reflog
+
+
+
+
 ### submodules
+
+
+
+
 ### search & find
+
+
+
+
 ### 
 ### 
 
