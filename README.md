@@ -1,2 +1,9 @@
-# gitttut
-# need to know cherry-picking & taging 
+# git
+### interactive rebase 
+### cherry picking
+### taging
+### reflog
+### submodules
+### search & find
+### 
+### 
