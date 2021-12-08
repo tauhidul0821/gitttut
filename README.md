@@ -1,4 +1,9 @@
-# git
+### for remove Merge branch 'main' of https://github.com
+``sh
+$ git config --global pull.rebase true
+``
+
+
 ### interactive rebase 
 - how to change commit massage 
 
