@@ -1,6 +1,7 @@
 ### for remove Merge branch 'main' of https://github.com
 ```sh
 $ git config --global pull.rebase true
+link: https://stackoverflow.com/questions/13846300/how-to-make-git-pull-use-rebase-by-default-for-all-my-repositories
 ```
 
 
