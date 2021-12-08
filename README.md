@@ -1,7 +1,7 @@
 ### for remove Merge branch 'main' of https://github.com
-````sh
+```sh
 $ git config --global pull.rebase true
-````
+```
 
 
 ### interactive rebase 
