@@ -78,3 +78,5 @@ git rebase -i HEAD~3
 
 # that is quick bugfix
 # that is quick bugfix 2
+# that is quick bugfix 3
+# that is quick bugfix 4
