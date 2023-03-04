@@ -78,3 +78,27 @@ git rebase -i HEAD~3
 
 # that is quick bugfix
 # that is quick bugfix 2
+
+
+- git rebase -i HEAD~3
+- change pick to s
+- press esc button
+- write :wq
+- modify commit message
+- press esc button
+- write :wq
+- git push origin feature/squash -f
+
+
+
+
+
+
+
+
+
+
+
+
+
+
