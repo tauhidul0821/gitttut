@@ -27,7 +27,7 @@ Community leaders are responsible for clarifying and enforcing our standards of 
 This Code of Conduct applies within all community spaces and also applies when an individual is representing the community in public spaces.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [email@yourdomain.com](mailto:email@yourdomain.com).
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [tauhidul0821@gmail.com](mailto:tauhidul0821@gmail.com).
 
 All complaints will be reviewed and investigated promptly and fairly.
 
