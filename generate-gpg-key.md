@@ -1,4 +1,5 @@
- GPG Kye Generate 
+GPG Kye Generate
+
 ```bash
 $ gpg --version
 
@@ -16,6 +17,8 @@ Email address: EMAIL_ADDRESS_AS_GITHUB_EMAIL
 Comment: GitHub Key
 
 Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? O
+
+// after that open a window for passphrase , write a password for leter that nedded before git push
 
 $ gpg --list-secret-keys --keyid-format LONG
 
@@ -42,22 +45,3 @@ $ git config --global gpg.program "C:\Program Files\Git\usr\bin\gpg.exe"
 $ git config --global --list
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
